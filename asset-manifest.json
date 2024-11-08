@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/larissafiorini/static/css/main.95e555b2.css",
-    "main.js": "/larissafiorini/static/js/main.f649bf49.js",
+    "main.css": "/larissafiorini/static/css/main.074426b9.css",
+    "main.js": "/larissafiorini/static/js/main.73bff620.js",
     "index.html": "/larissafiorini/index.html",
-    "main.95e555b2.css.map": "/larissafiorini/static/css/main.95e555b2.css.map",
-    "main.f649bf49.js.map": "/larissafiorini/static/js/main.f649bf49.js.map"
+    "main.074426b9.css.map": "/larissafiorini/static/css/main.074426b9.css.map",
+    "main.73bff620.js.map": "/larissafiorini/static/js/main.73bff620.js.map"
   },
   "entrypoints": [
-    "static/css/main.95e555b2.css",
-    "static/js/main.f649bf49.js"
+    "static/css/main.074426b9.css",
+    "static/js/main.73bff620.js"
   ]
 }
